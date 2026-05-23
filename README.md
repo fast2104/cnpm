@@ -1,6 +1,6 @@
 # Costume Rental Management - Statistics of Costumes
 
-Ứng dụng web TypeScript triển khai module **Statistics of costumes** theo báo cáo thiết kế được cung cấp. Giao diện giữ đúng hướng tối giản của mockup: năm màn hình `LOGIN`, `Home`, `Statistic of Costume`, `List Bills` và `Bill`, với thanh tiêu đề tím và bảng dữ liệu đơn giản.
+Ứng dụng web TypeScript triển khai module **Statistics of costumes**. Giao diện giữ đúng hướng tối giản của mockup: năm màn hình `LOGIN`, `Home`, `Statistic of Costume`, `List Bills` và `Bill`, với thanh tiêu đề tím và bảng dữ liệu đơn giản.
 
 ## Chạy ứng dụng
 
