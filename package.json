@@ -1,0 +1,18 @@
+{
+  "name": "costume-rental-statistics",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "prestart": "npm run build",
+    "start": "node dist/server.js",
+    "pretest": "npm run build",
+    "test": "node --test dist/test/dao.test.js"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "typescript": "^6.0.3"
+  }
+}
